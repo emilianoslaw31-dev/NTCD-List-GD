@@ -1,11 +1,18 @@
 {
-    "id": 56568010,
-    "name": "Magma Bound",
-    "author": "ScorchVX",
-    "creators": ["ScorchVX & more"],
-    "verifier": "BrandonCo",
-    "verification": "https://medal.tv/games/geometry-dash/clips/n2cGCETbr2kwuMR9q?invite=cr-MSxqUm4sNDg2MDY1NDk2",
-    "percentToQualify": 75,
-    "password": "Not Copyable",
-    "records": []
+"id": 56568010,
+"name": "Magma Bound",
+"author": "ScorchVX",
+"creators": ["ScorchVX & more"],
+"verifier": "BrandonCo",
+"verification": "https://medal.tv/games/geometry-dash/clips/n2cGCETbr2kwuMR9q?invite=cr-MSxqUm4sNDg2MDY1NDk2",
+"percentToQualify": 75,
+"password": "Not Copyable",
+"records": [
+{
+"user": "Sssound",
+"link": "https://youtu.be/yrYZyxtSqeM?is=A7_Gtspw-vodV4g2",
+"percent": 100,
+"hz": 60
+}
+]
 }
